@@ -1,0 +1,13 @@
+{
+    "undirected": {
+        "config": {
+            "iterations": 1,
+            "timesteps": 10,
+            "n_agents": 50,
+            "infecting_adjacency": 1,
+            "infecting_init": 0.0187,
+            "infecting_prob": 1.41e-09,
+            "max_node_weight": 5
+        }
+    }
+}

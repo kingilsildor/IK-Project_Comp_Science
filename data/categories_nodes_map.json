@@ -1,0 +1,191 @@
+{
+    "aardappelen": [
+        1,
+        2,
+        3
+    ],
+    "bier": [
+        57,
+        58,
+        59
+    ],
+    "broodafdeling": [
+        21,
+        22,
+        23,
+        24
+    ],
+    "cereals_broodbeleg": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+    ],
+    "cosmetica_papierwaren": [
+        63,
+        64,
+        66
+    ],
+    "diepvries": [
+        50,
+        51,
+        110,
+        111,
+        112
+    ],
+    "frisdrank": [
+        77,
+        78,
+        79,
+        80
+    ],
+    "frisdrank_wasmiddel_huishouden": [
+        67,
+        69,
+        70,
+        74,
+        77,
+        78
+    ],
+    "gesnedenGroenten_maaltijden_sappen": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ],
+    "groente_fruit": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        33,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        46
+    ],
+    "houdbareZuivel_suiker_koffiemelk_thee": [
+        98,
+        99,
+        100,
+        101,
+        102
+    ],
+    "kaas_en_tapas": [
+        89
+    ],
+    "koek_koffie": [
+        98,
+        99,
+        100,
+        101,
+        102
+    ],
+    "luiers_baby": [
+        67
+    ],
+    "melk_zuivel": [
+        85,
+        86
+    ],
+    "nootjes_zoutjes_chips": [
+        81,
+        82,
+        83,
+        84,
+        91
+    ],
+    "oosters": [
+        65
+    ],
+    "reinigers_bleek_dierenvoeding": [
+        69,
+        70,
+        73,
+        63,
+        64
+    ],
+    "rijst": [
+        65
+    ],
+    "salade_kaas": [
+        95,
+        94,
+        93
+    ],
+    "sappen": [
+        81,
+        82,
+        83
+    ],
+    "silvo_sausen_azijn_olie_ei": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+    ],
+    "soep_bakproducten": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+    ],
+    "speciaalBier": [
+        53
+    ],
+    "toetjes_boter": [
+        88,
+        87
+    ],
+    "vega_vis_halal_vleeswaren": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+    ],
+    "verse_broodjes": [
+        19,
+        25,
+        26,
+        96
+    ],
+    "wijn": [
+        104,
+        105
+    ],
+    "kassa": [
+        107,
+        114,
+        108,
+        115
+    ]
+}
